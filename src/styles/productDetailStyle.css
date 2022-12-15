@@ -1,0 +1,12 @@
+.conteinerImg{
+    display: flex;
+    height: 20rem;
+    justify-content: center;
+}
+
+.conteinerProductRelated{
+    display: grid;
+    box-sizing: border-box;
+    overflow: hidden;
+    grid-auto-columns: min-content;
+}
